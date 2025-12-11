@@ -189,4 +189,5 @@ if __name__ == "__main__":
         if bsize == 0:
             break
         time.sleep(0.2)
-    print("THE CLASSICAL PRODUCERR-CONSUMER PROBLEM CSC 411")
+    print("THE CLASSICAL PRODUCERR-CONSUMER SOLUTION CSC 411")
+
